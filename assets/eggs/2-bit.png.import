@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cp3m70pi1qoa1"
-path="res://.godot/imported/2-bit.png-1ddef93db2015117c8529ba39aaf813f.ctex"
+path="res://.godot/imported/2-bit.png-b0dcc6b4d5b10d69b84b6447e3dcfc99.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/eggs/Eggs by Onocentaur/2-bit.png"
-dest_files=["res://.godot/imported/2-bit.png-1ddef93db2015117c8529ba39aaf813f.ctex"]
+source_file="res://assets/eggs/2-bit.png"
+dest_files=["res://.godot/imported/2-bit.png-b0dcc6b4d5b10d69b84b6447e3dcfc99.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://ddsostol0te3s"
-path="res://.godot/imported/Background Red.png.png-12f428e0fbf1d0f4d767dada5b8d547d.ctex"
+path="res://.godot/imported/Background Red.png.png-e05f03738898eab13662935639d05203.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/eggs-backgrounds/Eggs Backgrounds by Onocentaur/Background Red.png.png"
-dest_files=["res://.godot/imported/Background Red.png.png-12f428e0fbf1d0f4d767dada5b8d547d.ctex"]
+source_file="res://assets/eggs-backgrounds/Background Red.png.png"
+dest_files=["res://.godot/imported/Background Red.png.png-e05f03738898eab13662935639d05203.ctex"]
 
 [params]
 
